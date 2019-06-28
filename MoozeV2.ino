@@ -12,8 +12,8 @@
 int buttonState = 1;         // variable for reading the pushbutton status
 int lastButtonState = 1;         // variable for reading the pushbutton status
 
-#define FIREBASE_HOST "mooze-1dacd.firebaseio.com"
-#define FIREBASE_AUTH "08wi7hLSmtuvF9nYlB34gQbpDHD09b8DVRbd14Dv"
+#define FIREBASE_HOST ""
+#define FIREBASE_AUTH ""
 
 String biper = "fef";
 String order = "";
